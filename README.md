@@ -79,7 +79,7 @@ try {
 
 ## API Methods
 
-| Method Name                                               | Description                                                                                                          | Parameters                                                                                           |
+| Bill payment                                              | Description                                                                                                          | Parameters                                                                                           |
 |-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | `listServices()`                                          | Retrieves a list of available services.                                                                             | None                                                                                                 |
 | `getBalance(currency)`                                    | Fetches the account balance for the specified currency (default is NGN).                                            | `currency` (optional) - Currency code (e.g., 'NGN', 'USD')                                           |
