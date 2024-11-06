@@ -21,3 +21,4 @@ ufitPay.getBalance('NGN') // Optional: specify the currency (e.g., 'NGN')
 
 const services = await ufitPay.listServices();
     console.log(services);
+//https://www.npmjs.com/package/ufitpay-sdk    
